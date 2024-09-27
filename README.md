@@ -1,5 +1,5 @@
 # LysoModel
-Here are the program files for modeling lysomic stresses. 
+Here are the program files for modeling lysomal stresses. 
 
 The LysoModel.ipynb file provides access to interactive management of initial conditions, modeling and stress activation.
 
