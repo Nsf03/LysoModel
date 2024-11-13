@@ -8,7 +8,7 @@ Python enviroment is required.
 Python enviroment is required. After compilation, Dash application could be started in the browser by the link http://127.0.0.1:8053/ (local host). 
 The application do not need internet connection.
 
-3. To install the interactive version on your computer, download the .exe file by link: https://drive.google.com/drive/folders/14jtxS9_WmCDpbRrqWoum-63hrtyzhsq5?usp=sharing
+3. To install the interactive version on your computer, download the .exe file by link: [https://drive.google.com/drive/folders/14jtxS9_WmCDpbRrqWoum-63hrtyzhsq5?usp=sharing](https://drive.google.com/drive/folders/1a751gx_1D81xfGhoi1ZeNJIA4QH3z7Rl)
 The application do not need internet connection and python environment. 
 
 Software gives user ability to change initial lysosomal pH, [K+], [Na+], [Cl-] and look on time response of pH, membrane potential, [K+], [Na+], [Cl-], water flux and organelle radius, vATPase activity. One could perform such monitoring in norm, or in stress conditions, switched on in short time interval from 300s to 350s: swelling (increased water flux), permeabilization, vATPase inhibition, proton efflux, described in Table 1. Proton sponge conditions applied from beginning of simulation. Not only one stress could be applied. 
