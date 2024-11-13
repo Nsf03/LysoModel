@@ -446,7 +446,7 @@ def update_figure(selected_ph, selected_na, selected_k,
                1e-8 * (oh * 10 ** (-solution[:, 2]) + ok *
                        solution[:, 3] / V_arr / NA + ona *
                        solution[:, 4] / V_arr / NA + ocl *
-                       solution[:, 5] / V_arr / NA + Q / V_arr - Oc))
+                       solution[:, 5] / V_arr / NA + Q / V_arr - Oc))*1000*NA
 
     radius = solution[:, 8]
 
