@@ -539,7 +539,7 @@ def update_figure(selected_ph, selected_na, selected_k,
     if graph_type == 'single vATPase activity':
         fig = go.Figure()
         fig.add_trace(
-            go.Scatter(x=tspan, y=v_arr, name="J_v", mode='lines')
+            go.Scatter(x=tspan, y=v_arr*550/6, name="J_v", mode='lines')
         )
 
         fig.update_xaxes(title_text="Time, s")
