@@ -46,3 +46,6 @@ Crosshair tool provide values for X and Y coordinates on selected curve.
 NB: To avoid LysoModel crash (errors will occur and software won't respond), please do not change any parameter while application is on "Updating" process after previous change. "Updating" status is written on the name of the browser tab.
 
 Take care of yourself.
+
+
+Study was supported by Russian Science Foundation (RSF) Project 24-24-00504, https://rscf.ru/en/project/24-24-00504/
