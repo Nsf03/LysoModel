@@ -556,7 +556,7 @@ app.title = 'Lysosome model'
 
 if __name__ == '__main__':
     print('Please copy the link and paste it into your browser.')
-    app.run(debug=True, jupyter_mode="tab", port=8053)
+    app.run(debug=True, jupyter_mode="tab", port=8050)
 
 
 
