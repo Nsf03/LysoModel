@@ -4,7 +4,7 @@ Hello, world!
 In the attachment there are the program files for modeling lysosomal stresses.
 
 There are 4 ways to use LysoModel
-I. You can try the interactive version of the model on the website lysomodel.mipt.ru
+I. You can try the interactive version of the model on the website [lysomodel.mipt.ru](https://lysomodel.mipt.ru/)
 
 II. Run "Single stresses.ipynb" with flux_psi.mat, kflux.mat, naflux_psi.mat in one folder.
 
