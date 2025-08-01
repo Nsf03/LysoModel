@@ -3,19 +3,21 @@ Hello, world!
 
 In the attachment there are the program files for modeling lysosomal stresses.
 
-There are 3 ways to use LysoModel
-I. Run "Single stresses.ipynb" with flux_psi.mat, kflux.mat, naflux_psi.mat in one folder.
+There are 4 ways to use LysoModel
+I. You can try the interactive version of the model on the website lysomodel.mipt.ru
+
+II. Run "Single stresses.ipynb" with flux_psi.mat, kflux.mat, naflux_psi.mat in one folder.
 
 "Single stresses.ipynb" does simulation of individual stresses and allow for flexible configuration.
 Python enviroment is required.
 
-II. Run "LysoModel.py" file with flux_psi.mat, kflux.mat, naflux_psi.mat in one folder.
+III. Run "LysoModel.py" file with flux_psi.mat, kflux.mat, naflux_psi.mat in one folder.
 
 The LysoModel.py file provides access to interactive management  of initial conditions, modeling and stress activation.
 Python enviroment is required. After compilation, Dash application could be started in the browser by the link http://127.0.0.1:8053/ (local host). 
 The application does not need internet connection.
 
-III. Run LysoModel.exe
+IV. Run LysoModel.exe
 
 To run the interactive version on your computer, download the LysoModel.exe file by link: https://drive.google.com/drive/folders/1a751gx_1D81xfGhoi1ZeNJIA4QH3z7Rl?usp=sharing 
 The application do not need the internet connection and python environment. 
