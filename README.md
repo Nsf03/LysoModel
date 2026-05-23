@@ -49,5 +49,4 @@ NB: To avoid LysoModel crash (errors will occur and software won't respond), ple
 
 Take care of yourself.
 
-
-Study was supported by Russian Science Foundation (RSF) Project 24-24-00504, https://rscf.ru/en/project/24-24-00504/
+Study was supported by Russian Science Foundation (RSF) Project 24-24-00504, https://rscf.ru/en/project/24-24-00504/, Russian Science Foundation grant No 24-74-00059 https://rscf.ru/en/project/24-74-00059/.
